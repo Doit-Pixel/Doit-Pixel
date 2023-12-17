@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src='https://i.pinimg.com/originals/58/a4/76/58a47666908a184d31dd109eb85a65c7.jpg' width='1200"'>
 
 <!--
 **Doit-Pixel/Doit-Pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

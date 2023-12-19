@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="https://www.linkedin.com/">LinkedIN</a> •
+  <a href="https://www.instagram.com/">Instagram</a> •
+  <a href="https://twitter.com/">Twitter</a>
+</p>
+
 <div align="center">
 <img src='https://i.pinimg.com/originals/58/a4/76/58a47666908a184d31dd109eb85a65c7.jpg' width='1200'>
 </div>

@@ -4,7 +4,7 @@
 <br>
 
 <p>
-   <img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=26&duration=1200&pause=1600&color=35FF94&multiline=true&random=false&width=380&height=180&lines=Welcome+visitors!;Doit's+Workshop.;Logbook+%231%2C+Coming+soon..." alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=26&duration=1200&pause=2000&color=35FF94&multiline=true&random=false&width=380&height=180&lines=Welcome+visitors!;Doit's+Workshop.;Logbook+%231%2C+Coming+soon..." alt="Typing SVG" />
 </p>
 
 <p>

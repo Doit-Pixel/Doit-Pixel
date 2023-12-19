@@ -11,7 +11,9 @@
    <img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=60&duration=400&pause=200&color=95959585&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=200&lines=Crafting+generative+images+;with+Stable+Diffusion" alt="Typing SVG" />
 </p>
 
-<hr>
+<hr/>
+<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<hr/>
 
 
 </hr>

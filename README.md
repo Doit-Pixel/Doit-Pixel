@@ -4,11 +4,11 @@
 <br>
 
 <p>
-    <img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=26&pause=1000&color=35FF94&multiline=true&random=false&width=333&height=140&lines=Welcome+visitors!;Doit's+Workshop.;Logbook+%231%2C+Coming+soon..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=26&duration=4500&pause=800&color=35FF94&multiline=true&random=false&width=333&height=220&lines=Welcome+visitors!;Doit's+Workshop.;Logbook+%231%2C+Coming+soon..." alt="Typing SVG" />
 </p>
 
 <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=60&pause=1000&color=90909050&multiline=true&repeat=false&random=false&width=700&height=132&lines=Crafting+generative+images+;with+Stable+Diffusion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=60&duration=200&pause=600&color=95959585&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=200&lines=Crafting+generative+images+;with+Stable+Diffusion" alt="Typing SVG" />
 </p>
 
 <hr>
